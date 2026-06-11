@@ -1,1 +1,1 @@
-![](putputs/fig1_outlier_detection.png)
+![](outputs/fig1_outlier_detection.png)
